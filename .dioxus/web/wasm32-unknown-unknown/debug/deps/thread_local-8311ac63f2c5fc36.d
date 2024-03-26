@@ -1,0 +1,10 @@
+C:\Rust\dioxus-demo\.dioxus\web\wasm32-unknown-unknown\debug\deps\libthread_local-8311ac63f2c5fc36.rmeta: C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs
+
+C:\Rust\dioxus-demo\.dioxus\web\wasm32-unknown-unknown\debug\deps\libthread_local-8311ac63f2c5fc36.rlib: C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs
+
+C:\Rust\dioxus-demo\.dioxus\web\wasm32-unknown-unknown\debug\deps\thread_local-8311ac63f2c5fc36.d: C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs
+
+C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs:
+C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs:
+C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs:
+C:\Users\Maalainine\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs:
