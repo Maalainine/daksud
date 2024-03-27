@@ -1,5 +1,6 @@
 #![allow(non_snake_case, unused)]
 use dioxus::prelude::*;
+use manganis::*;
 
 fn main() {
     // Urls are relative to your Cargo.toml file
@@ -8,10 +9,13 @@ fn main() {
 }
 
 fn app() -> Element {
+    const BG: manganis::ImageAsset = manganis::mg!(image("./images/bg.png"));
+
     let mut count = use_signal(|| 0);
 
     rsx! {
 
+        // header
         header {
             nav { class: "bg-white border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-gray-800",
 
@@ -153,9 +157,10 @@ fn app() -> Element {
             }
         }
 
+        // body 1st section
         div {
-            class: "bg-cover backdrop-brightness-0",
-            style: "background-image: url('/bg.png')",
+            class: "bg-cover backdrop-blur-sm",
+            style: "background-image: url('{BG}')",
 
             div { class: "h-full w-full backdrop-blur-sm relative isolate px-6 pt-14",
 
@@ -229,6 +234,7 @@ fn app() -> Element {
             }
         }
 
+        // body 2nd section
         div { class: "bg-white py-24 sm:py-32",
 
             div { class: "mx-auto max-w-2xl lg:text-center",

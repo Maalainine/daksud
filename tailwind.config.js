@@ -7,7 +7,7 @@ module.exports = {
         // include all html files in the output (dist) directory
         "./dist/**/*.html",
 
-        "./*.{jpg, png}",
+        //"./images/*.jpg",
     ],
     theme: {
         extend: {},
