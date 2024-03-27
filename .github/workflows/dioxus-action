@@ -1,2 +1,0 @@
-- name: Dioxus Deploy
-uses: DioxusLabs/deploy-action@0.1.1
